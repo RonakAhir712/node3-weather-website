@@ -1,4 +1,4 @@
-
+console.log("js file connected.")
 
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
